@@ -8,6 +8,8 @@ const PORT = process.env.PORT || 3000;
 
 app.use("/api", require("./src/routes/api.route"));
 
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
     console.log(`server listening on port ${PORT}`);
 });
+
+module.exports = server;

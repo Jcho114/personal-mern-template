@@ -4,6 +4,6 @@ const {
     placeHolder
 } = require("../controllers/api.controller");
 
-router.get("/", placeHolder);
+router.get("/placeholder", placeHolder);
 
 module.exports = router;
