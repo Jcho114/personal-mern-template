@@ -13,7 +13,7 @@ afterAll(done => {
     console.log("tests done");
     server.close();
     done();
-})
+});
 
 describe("GET /api/placeholder", () => {
     it("should return a message placeholder", async () => {
