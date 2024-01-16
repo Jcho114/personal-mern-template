@@ -1,5 +1,5 @@
-const request = require("supertest");
 const server = require("../../index");
+const request = require("supertest");
 
 beforeEach(() => {
     console.log("before test");
