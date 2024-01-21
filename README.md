@@ -1,10 +1,7 @@
 # Personal MERN Template
 
 ## Motivation
-Add movitation for project here
-
-## Overview
-Add overview of project here
+Tired of constantly repeating the same steps for starting my MERN stack projects, I chose to create a template that I can modify whenever I want to. Hopefully, I can save some time with this.
 
 ## Tech Stack
 
