@@ -56,6 +56,9 @@ I haven't gotten around to implementing dotenv-vault yet so you either have to a
 
 ## Learning Resources
 
+### Pull Requests
+- <a href="https://www.youtube.com/watch?v=8lGpZkjnkt4&t=1s">How to make a pull request</a>
+
 ### HTML
 - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">List of elements and properties</a>
 
